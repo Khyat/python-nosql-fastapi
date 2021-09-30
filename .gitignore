@@ -1,6 +1,8 @@
 bin/
 include/
+app/ignored/
 lib/
+lib64/
 share/
 pyvenv.cfg
 # Byte-compiled / optimized / DLL files
