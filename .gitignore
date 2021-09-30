@@ -2,7 +2,7 @@ bin/
 include/
 lib/
 share/
-
+pyvenv.cfg
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
